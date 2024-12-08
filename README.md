@@ -112,6 +112,41 @@ Architecture Diagram
 ![Image p (Whiteboard) (3)](https://github.com/user-attachments/assets/cf8c132a-0609-402e-987d-f4ba4d02860d)
 
 
+Smart Navigation and Information Companion for Zoo Explorers 
+
+Venujan Yogathas 
+IT21189012
+
+
+RESEARCH QUESTIONS
+
+How can high-definition live camera feeds be optimized for low-latency streaming in a zoo environment?
+
+What user interface design principles are most effective for live feed interaction in mobile applications?
+
+How can object detection works for animal detection?
+
+
+solution
+
+
+High-definition live camera feeds can be optimized for low-latency streaming in a zoo environment by using adaptive bitrate streaming (ABR), efficient video codecs like H.265/HEVC, and WebRTC protocols. Implement edge computing for local processing and leverage Content Delivery Networks (CDNs) for faster data distribution. Ensure stable network infrastructure with high-speed connectivity and bandwidth prioritization.
+
+Effective user interface design principles for live feed interaction in mobile applications include intuitive navigation, responsive controls, and clutter-free layouts. Incorporate features like pinch-to-zoom, real-time annotations, and multi-feed switching for enhanced usability. Ensure accessibility with clear icons, high-contrast visuals, and minimal latency.
+
+Object detection for animal detection works by training machine learning models, such as YOLO or Faster R-CNN, on labeled datasets of animal images. These models use convolutional neural networks (CNNs) to detect and classify animals in real-time by analyzing patterns, shapes, and textures in the input video or image streams.
+
+
+
+Architecture Diagram
+
+![Image p (Whiteboard) (4)](https://github.com/user-attachments/assets/ab756eb5-c18f-463e-bba0-0c01ff8c77a4)
+
+
+
+
+
+
 
 
 
