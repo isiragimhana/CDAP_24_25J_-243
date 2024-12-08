@@ -28,6 +28,11 @@ OVERALL PROJECT OBJECTIVES
 ![Image p (Whiteboard)](https://github.com/user-attachments/assets/0f1d188e-4d0f-4c61-a061-437286e0df91)
 
 
+Technologies and Algorithms
+![Image p (Whiteboard) (2)](https://github.com/user-attachments/assets/bc344ce4-23e5-461c-8917-7a07f11ba448)
+
+
+
 Scan animals and identify there details.
 Bandara D.M.H.G.I.G
 IT21239670
@@ -49,5 +54,8 @@ For implementing machine learning and deep learning techniques to identify anima
 Architecture Diagram
 
 ![Image p (Whiteboard) (1)](https://github.com/user-attachments/assets/2f2297d8-2a3b-41d2-8e37-fbe96a660434)
+
+
+
 
 
