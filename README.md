@@ -1,10 +1,14 @@
- CDAP_24_25J_-243
+#CDAP_24_25J_-243
+
+ 
 SMART NAVIGATION AND INFORMATION COMPANION MOBILE APP FOR ZOO EXPLORERS 
 
 
 RESEARCH PROBLEM
 
 "How can a mobile application effectively provide  contextual information to enhance the visitor experience in a zoo, while accommodating diverse user needs and promoting wildlife education and conservation awareness?"
+
+
 
 
 OBJECTIVES
