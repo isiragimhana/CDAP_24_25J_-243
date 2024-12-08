@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/073816c9-a13f-4892-9f20-75011df18586)![image](https://github.com/user-attachments/assets/4a2d9943-9e68-4d07-a250-c07f12d73185)# CDAP_24_25J_-243
+ CDAP_24_25J_-243
 SMART NAVIGATION AND INFORMATION COMPANION MOBILE APP FOR ZOO EXPLORERS 
 
 
